@@ -1,5 +1,8 @@
 # Skidl + KiCad + Freerouting Clock Example
 
+## TODO
+- Replace Freerouting with programmatic routing
+
 ## Components
 
 - WS2813 LEDs
