@@ -43,6 +43,9 @@
   - Open pcbnew
   - File > Import > Specctra Session `clock.ses`
   
+## Screenshot
+![screenshot-clock](doc/clock.png)
+  
 ## References
 
 - [KiCad Scripting Reference](https://github.com/KiCad/kicad-doc/blob/master/src/pcbnew/pcbnew_python_scripting.adoc)
